@@ -32,4 +32,3 @@ Após o término da execução o arquivo (extrato_tesouro_direto.csv)[extrato_te
 O arquivo de saída terá o layout abaixo:
 
 dt_referencia;corretora;titulo;dt_vencimento;vr_investido;vr_bruto;vr_liquido;qtd_total;qtd_bloqueado
-"2012-01-01";"CAIXA ECONOMICA FEDERAL (Conta ativa desde 21/02/2000)";"LTN 010112";"2012-01-01";"0.00";"0.00";"0.00";"0.00";"0.00"
