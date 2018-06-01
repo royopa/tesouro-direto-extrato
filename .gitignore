@@ -108,4 +108,5 @@ project/client/static/node_modules/*
 
 extrato_tesouro_direto.csv
 geckodriver.log
+.vscode
 
