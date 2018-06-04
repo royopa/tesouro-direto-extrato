@@ -28,7 +28,8 @@ $ pipenv shell
 $ python main.py
 ```
 
-Após o término da execução o arquivo (extrato_tesouro_direto.csv)[extrato_tesouro_direto.csv] estará disponível e atualizado com os extratos.
+Após o término da execução o arquivo [extrato_tesouro_direto.csv](extrato_tesouro_direto.csv) estará disponível e atualizado com os extratos.
+
 O arquivo de saída terá o layout abaixo:
 
-dt_referencia;corretora;titulo;dt_vencimento;vr_investido;vr_bruto;vr_liquido;qtd_total;qtd_bloqueado
+dt_referencia; corretora; titulo; dt_vencimento; vr_investido; vr_bruto; vr_liquido; qtd_total; qtd_bloqueado
