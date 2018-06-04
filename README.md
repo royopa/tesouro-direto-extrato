@@ -32,4 +32,5 @@ Após o término da execução o arquivo [extrato_tesouro_direto.csv](extrato_te
 
 O arquivo de saída terá o layout abaixo:
 
-dt_referencia; corretora; titulo; dt_vencimento; vr_investido; vr_bruto; vr_liquido; qtd_total; qtd_bloqueado
+dt_referencia | corretora | titulo | dt_vencimento | vr_investido | vr_bruto | vr_liquido | qtd_total | qtd_bloqueado
+------------- | --------- | ------ | ------------- | ------------ | -------- | ---------- | --------- | -------------
