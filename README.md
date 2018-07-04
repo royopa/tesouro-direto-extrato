@@ -5,7 +5,7 @@ Permite capturar os seus extratos do Tesouro Direto e salvá-los num arquivo csv
 
 ## Quick Start
 
-Instalar dependências:
+Instalar dependências (necessário ter instalado o [pipenv](https://docs.pipenv.org/)):
 
 ```sh
 $ pipenv install
